@@ -27,7 +27,6 @@ namespace Lab3_NumberAnalyzer
                 while(!int.TryParse(Console.ReadLine(), out userNum))
                 {
                     Console.WriteLine("Please enter a whole number between 1 and 100");
-                    Console.WriteLine("int while");
                 }
 
 
@@ -63,17 +62,16 @@ namespace Lab3_NumberAnalyzer
                 }
 
                 Console.WriteLine("Would you like to check another number? (y/n)");
-                string checkAgain = Console.ReadLine();
-                checkAgain.ToLower();
+                char checkAgain = char.Parse(Console.ReadLine());
 
-                if (checkAgain == "y")
+                if (char.ToLower(checkAgain) == 'y')
                     again = true;
-                else if (checkAgain == "n")
+                else if (char.ToLower(checkAgain) == 'n')
                     again = false;
                 else
                 {
                     Console.WriteLine("Would you like to check another number? (y/n)");
-                    checkAgain = Console.ReadLine();
+                    checkAgain = char.Parse(Console.ReadLine());
                 }
 
             }
