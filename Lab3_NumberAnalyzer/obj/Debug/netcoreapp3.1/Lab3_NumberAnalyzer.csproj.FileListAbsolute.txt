@@ -1,0 +1,13 @@
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.exe
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.deps.json
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.runtimeconfig.json
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.dll
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.pdb
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.csprojAssemblyReference.cache
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.AssemblyInfo.cs
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.dll
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.pdb
+C:\Users\Andoni\source\repos\Lab3_NumberAnalyzer\Lab3_NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab3_NumberAnalyzer.genruntimeconfig.cache
