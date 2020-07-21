@@ -11,6 +11,8 @@ namespace Lab3_NumberAnalyzer
             bool validNum = false;
             bool again = true;
 
+            int userNum;
+
             Console.WriteLine("Hello! So we can get to know each other, what is your name?");
             string userName = Console.ReadLine();
 
@@ -20,8 +22,16 @@ namespace Lab3_NumberAnalyzer
             while (again)
             {
                 Console.WriteLine("Please enter a whole number between 1 and 100");
-                double temp = double.Parse(Console.ReadLine());
 
+                //loop to check user input and verify that it's a whole integer value
+                while(!int.TryParse(Console.ReadLine(), out userNum))
+                {
+                    Console.WriteLine("Please enter a whole number between 1 and 100");
+                    Console.WriteLine("int while");
+                }
+
+
+                //loop to make sure the number entered is between 1 and 100
                 while (userNum < 0 || userNum > 100)
                 {
                     Console.WriteLine("Please enter a whole number between 1 and 100");
