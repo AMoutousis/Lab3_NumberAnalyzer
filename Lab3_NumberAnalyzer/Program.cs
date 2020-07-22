@@ -62,7 +62,7 @@ namespace Lab3_NumberAnalyzer
                 }
 
                 Console.WriteLine("Would you like to check another number? (y/n)");
-                char checkAgain = char.Parse(Console.ReadLine());
+                char checkAgain = char.Parse(Console.ReadLine()); //can also do "Console.ReadLine().ToLower();"
 
                 if (char.ToLower(checkAgain) == 'y')
                     again = true;
